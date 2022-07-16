@@ -2,7 +2,7 @@
 
 #Jangan Lupa Kasih ⭐bintang Nya 😇🙏
 
-$ pkg install update && install upgrade
+$ pkg install update && pkg install upgrade
 
 $ git clone https://github.com/IMIN-CYBER/Cyber_Mood
 
