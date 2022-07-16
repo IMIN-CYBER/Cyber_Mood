@@ -16,10 +16,10 @@ $ ls
 
 $ cd Cyber_Mood
 
-# ls
+$ ls
 
 $ python Cyber_Mood.py
 
-"No [01] khusus FiLe, Buat DuLu Dan Pindahkan Folder ke Folde Cyber_Mood
+#No [01] khusus FiLe, Buat DuLu Dan Pindahkan Folder ke Folde Cyber_Mood
 
 #SEMOGA SENANG SAYANK KU 🥰😘
