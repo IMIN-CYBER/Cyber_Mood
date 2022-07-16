@@ -6,6 +6,4 @@ $ pkg install update && install upgrade
 
 $ git clone https://github.com/IMIN-CYBER/Cyber_Mood
 
-#SCRIPT FREE 100% 
-
-SEMOGA SENANG SAYANK KU 🥰😘
+#SEMOGA SENANG SAYANK KU 🥰😘
