@@ -16,7 +16,7 @@ $ ls
 
 $ cd Cyber_Mood
 
-$ python Cyber_Mood
+$ python Cyber_Mood.py
 
 "No [01] khusus FiLe, Buat DuLu Dan Pindahkan Folder ke Folde Cyber_Mood
 
